@@ -50,11 +50,7 @@ h1 {
 .img {
   z-index: 5;
   position: relative;
-  margin-top: 10px;
-  padding-top: 15px;
-  width: 50% auto;
-  height: 80% auto;
-  max-width: 80%;
+/*   max-width: 80%; */
   max-height: 500px;
   -webkit-animation: ani 5s;
           animation: ani 5s;
